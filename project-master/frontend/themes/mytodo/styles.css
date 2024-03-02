@@ -1,0 +1,10 @@
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.[part='summary'] {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.summary  {
+             font-family: 'Roboto Mono', monospace;
+         }
